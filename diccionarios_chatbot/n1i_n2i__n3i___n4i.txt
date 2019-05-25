@@ -1,0 +1,139 @@
+si,n1i_n2i__n3i___n4i____n5i
+bueno deme el pie,n1i_n2i__n3i___n4i____n5i
+bueno deme pie de queso,n1i_n2i__n3i___n4i____n5i
+deme el pie,n1i_n2i__n3i___n4i____n5i
+deme el pie de queso,n1i_n2i__n3i___n4i____n5i
+tambien quiero el pie,n1i_n2i__n3i___n4i____n5i
+tambien quiero el pie de queso,n1i_n2i__n3i___n4i____n5i
+si el pie tambien,n1i_n2i__n3i___n4i____n5i
+si el pie de queso tambien,n1i_n2i__n3i___n4i____n5i
+tambien el pie por favor,n1i_n2i__n3i___n4i____n5i
+si tambien el pied de queso por favor,n1i_n2i__n3i___n4i____n5i
+si el pie por favor,n1i_n2i__n3i___n4i____n5i
+si el pie de queso por favor,n1i_n2i__n3i___n4i____n5i
+si pie,n1i_n2i__n3i___n4i____n5i
+si pie de queso,n1i_n2i__n3i___n4i____n5i
+el pie,n1i_n2i__n3i___n4i____n5i
+el pie de queso,n1i_n2i__n3i___n4i____n5i
+pie,n1i_n2i__n3i___n4i____n5i
+pie de queso,n1i_n2i__n3i___n4i____n5i
+si quiero pie,n1i_n2i__n3i___n4i____n5i
+si quiero pie de queso,n1i_n2i__n3i___n4i____n5i
+si por favor tambien el pie,n1i_n2i__n3i___n4i____n5i
+si por favor tameien el pie de queso,n1i_n2i__n3i___n4i____n5i
+si por favor el pie,n1i_n2i__n3i___n4i____n5i
+si por favor el pie de queso,n1i_n2i__n3i___n4i____n5i
+si por favor,n1i_n2i__n3i___n4i____n5i
+si quiero,n1i_n2i__n3i___n4i____n5i
+esta bien agreguelo,n1i_n2i__n3i___n4i____n5i
+agregue el pie,n1i_n2i__n3i___n4i____n5i
+agregue el pie de queso,n1i_n2i__n3i___n4i____n5i
+ponga el pie,n1i_n2i__n3i___n4i____n5i
+ponga el pie de queso,n1i_n2i__n3i___n4i____n5i
+me gusta el pie,n1i_n2i__n3i___n4i____n5i
+me gusta el pie de queso,n1i_n2i__n3i___n4i____n5i
+si me interesa el pie,n1i_n2i__n3i___n4i____n5i
+bien agregue el pie,n1i_n2i__n3i___n4i____n5i
+bien agregue el pie de queso,n1i_n2i__n3i___n4i____n5i
+no,n1i_n2i__n3i___n4i____n5d
+no quiero pie,n1i_n2i__n3i___n4i____n5d
+no quiero pie de queso,n1i_n2i__n3i___n4i____n5d
+no me interesa el pie,n1i_n2i__n3i___n4i____n5d
+no me interesa el pie de queso,n1i_n2i__n3i___n4i____n5d
+no quiero,n1i_n2i__n3i___n4i____n5d
+ya no quiero pie,n1i_n2i__n3i___n4i____n5d
+ya no quiero pie de queso,n1i_n2i__n3i___n4i____n5d
+sin pie,n1i_n2i__n3i___n4i____n5d
+sin pie de queso,n1i_n2i__n3i___n4i____n5d
+no gracias no quiero pie,n1i_n2i__n3i___n4i____n5d
+no gracias no quiero pie de queso,n1i_n2i__n3i___n4i____n5d
+no gracias no quiero,n1i_n2i__n3i___n4i____n5d
+no gracias,n1i_n2i__n3i___n4i____n5d
+sin el pie,n1i_n2i__n3i___n4i____n5d
+sin el pie de queso,n1i_n2i__n3i___n4i____n5d
+no me gusta el pie,n1i_n2i__n3i___n4i____n5d
+pie no,n1i_n2i__n3i___n4i____n5d
+pie de queso no,n1i_n2i__n3i___n4i____n5d
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+mejor múestreme de nuevo el menu,menu
+quiero ver de nuevo el menú,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor los burritos,n1d_n2i
+prefiero los burritos,n1d_n2i
+quiero los burritos,n1d_n2i
+quiero cambiar a burritos,n1d_n2i
+mejor burritos,n1d_n2i
+burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+creo que prefiero los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+quiero burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ya no quiero deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
+me lo puede cambiar por los panqueques,n1d_n2d
+me lo puede cambiar por panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor los panqueques,n1d_n2d
+prefiero los panqueques,n1d_n2d
+quiero los panqueques,n1d_n2d
+quiero cambiar a panqueques,n1d_n2d
+mejor panqueques,n1d_n2d
+panqueques,n1d_n2d
+los panqueques mejor,n1d_n2d
+los panqueques,n1d_n2d
+creo que prefiero los panqueques,n1d_n2d
+mejor unos panqueques,n1d_n2d
+quiero unos panqueques mejor,n1d_n2d
+unos panqueques,n1d_n2d
+creo que prefiero unos panqueques,n1d_n2d
+cambielo a panqueques,n1d_n2d
+creo que unos panqueques,n1d_n2d
+quiero panqueques,n1d_n2d
+prefiero unos panqueques,n1d_n2d
+quiero unos panqueques,n1d_n2d
+deme panqueques,n1d_n2d
+ya no quiero deme panqueques,n1d_n2d
+ahora quiero panqueques,n1d_n2d
+ahora deme los panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor deme panqueques,n1d_n2d
+mejor si deme panqueques,n1d_n2d

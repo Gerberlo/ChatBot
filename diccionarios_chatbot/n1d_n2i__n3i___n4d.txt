@@ -1,0 +1,118 @@
+Mediano,n1d_n2i__n3i___n4d____n5i
+Demelo mediano,n1d_n2i__n3i___n4d____n5i
+Mediano por favor,n1d_n2i__n3i___n4d____n5i
+Mediano porfa,n1d_n2i__n3i___n4d____n5i
+Mediano esta bien,n1d_n2i__n3i___n4d____n5i
+lo quiero mediano,n1d_n2i__n3i___n4d____n5i
+que sea mediano,n1d_n2i__n3i___n4d____n5i
+quiero mediano,n1d_n2i__n3i___n4d____n5i
+tamaño mediano,n1d_n2i__n3i___n4d____n5i
+mediano gracias,n1d_n2i__n3i___n4d____n5i
+que sea mediano gracias,n1d_n2i__n3i___n4d____n5i
+Normal,n1d_n2i__n3i___n4d____n5d
+Demelo normal,n1d_n2i__n3i___n4d____n5d
+Normal por favor,n1d_n2i__n3i___n4d____n5d
+Normal porfa,n1d_n2i__n3i___n4d____n5d
+Normal esta bien,n1d_n2i__n3i___n4d____n5d
+que sea normal,n1d_n2i__n3i___n4d____n5d
+lo quiero normal,n1d_n2i__n3i___n4d____n5d
+agreguelo normal,n1d_n2i__n3i___n4d____n5d
+normal gracias,n1d_n2i__n3i___n4d____n5d
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+mejor múestreme de nuevo el menu,menu
+quiero ver de nuevo el menú,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor el muffin,n1i
+prefiero el muffin,n1i
+cambiemelo por el muffin,n1i
+quiero cambiar a muffin,n1i
+mejor muffin,n1i
+muffin,n1i
+el muffin mejor,n1i
+el muffin,n1i
+creo que prefiero el muffin,n1i
+mejor un muffin,n1i
+quiero un muffin mejor,n1i
+un muffin,n1i
+creo que prefiero un muffin,n1i
+cambielo a muffin,n1i
+creo que un muffin,n1i
+prefiero un muffin,n1i
+quiero un muffin,n1i
+deme muffin,n1i
+ya no quiero deme un muffin,n1i
+ahora quiero muffin,n1i
+ahora quiero el muffin,n1i
+ahora deme el muffin,n1i
+mejor deme el muffin,n1i
+mejor deme muffin,n1i
+mejor si deme el muffin,n1i
+me lo puede cambiar por los panqueques,n1d_n2d
+me lo puede cambiar por panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor los panqueques,n1d_n2d
+prefiero los panqueques,n1d_n2d
+quiero los panqueques,n1d_n2d
+quiero cambiar a panqueques,n1d_n2d
+mejor panqueques,n1d_n2d
+panqueques,n1d_n2d
+los panqueques mejor,n1d_n2d
+los panqueques,n1d_n2d
+creo que prefiero los panqueques,n1d_n2d
+mejor unos panqueques,n1d_n2d
+quiero unos panqueques mejor,n1d_n2d
+unos panqueques,n1d_n2d
+creo que prefiero unos panqueques,n1d_n2d
+cambielo a panqueques,n1d_n2d
+creo que unos panqueques,n1d_n2d
+quiero panqueques,n1d_n2d
+prefiero unos panqueques,n1d_n2d
+quiero unos panqueques,n1d_n2d
+deme panqueques,n1d_n2d
+ya no quiero deme panqueques,n1d_n2d
+ahora quiero panqueques,n1d_n2d
+ahora deme los panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor deme panqueques,n1d_n2d
+mejor si deme panqueques,n1d_n2d
+quiero cafe,n1d_n2i__n3i___n4i
+deme cafe,n1d_n2i__n3i___n4i
+cambiemelo por cafe,n1d_n2i__n3i___n4i
+mejor quiero cafe,n1d_n2i__n3i___n4i
+deme mejor un cafe,n1d_n2i__n3i___n4i
+mejor deme cafe,n1d_n2i__n3i___n4i
+me puede cambiar el jugo por cafe,n1d_n2i__n3i___n4i
+cambieme el jugo por cafe,n1d_n2i__n3i___n4i
+prefiero cafe,n1d_n2i__n3i___n4i
+el cafe,n1d_n2i__n3i___n4i
+deseo cafe,n1d_n2i__n3i___n4i
+cambieme el jugo,n1d_n2i__n3i___n4i
+mejor cafe,n1d_n2i__n3i___n4i
+mejor deme el cafe,n1d_n2i__n3i___n4i
+ya no quiero jugo,n1d_n2i__n3i___n4i
+no quiero jugo,n1d_n2i__n3i___n4i

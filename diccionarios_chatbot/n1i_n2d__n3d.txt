@@ -1,0 +1,99 @@
+Mediano,n1i_n2d__n3d___n4i
+Demelo mediano,n1i_n2d__n3d___n4i
+Mediano por favor,n1i_n2d__n3d___n4i
+Mediano porfa,n1i_n2d__n3d___n4i
+Mediano esta bien,n1i_n2d__n3d___n4i
+lo quiero mediano,n1i_n2d__n3d___n4i
+que sea mediano,n1i_n2d__n3d___n4i
+quiero mediano,n1i_n2d__n3d___n4i
+tamaño mediano,n1i_n2d__n3d___n4i
+mediano gracias,n1i_n2d__n3d___n4i
+que sea mediano gracias,n1i_n2d__n3d___n4i
+Normal,n1i_n2d__n3d___n4d
+Demelo normal,n1i_n2d__n3d___n4d
+Normal por favor,n1i_n2d__n3d___n4d
+Normal porfa,n1i_n2d__n3d___n4d
+Normal esta bien,n1i_n2d__n3d___n4d
+que sea normal,n1i_n2d__n3d___n4d
+lo quiero normal,n1i_n2d__n3d___n4d
+agreguelo normal,n1i_n2d__n3d___n4d
+normal gracias,n1i_n2d__n3d___n4d
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor los burritos,n1d_n2i
+prefiero los burritos,n1d_n2i
+quiero los burritos,n1d_n2i
+quiero cambiar a burritos,n1d_n2i
+mejor burritos,n1d_n2i
+burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+creo que prefiero los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+quiero burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ya no quiero deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
+me lo puede cambiar por los panqueques,n1d_n2d
+me lo puede cambiar por panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor los panqueques,n1d_n2d
+prefiero los panqueques,n1d_n2d
+quiero los panqueques,n1d_n2d
+quiero cambiar a panqueques,n1d_n2d
+mejor panqueques,n1d_n2d
+panqueques,n1d_n2d
+los panqueques mejor,n1d_n2d
+los panqueques,n1d_n2d
+creo que prefiero los panqueques,n1d_n2d
+mejor unos panqueques,n1d_n2d
+quiero unos panqueques mejor,n1d_n2d
+unos panqueques,n1d_n2d
+creo que prefiero unos panqueques,n1d_n2d
+cambielo a panqueques,n1d_n2d
+creo que unos panqueques,n1d_n2d
+quiero panqueques,n1d_n2d
+prefiero unos panqueques,n1d_n2d
+quiero unos panqueques,n1d_n2d
+deme panqueques,n1d_n2d
+ya no quiero deme panqueques,n1d_n2d
+ahora quiero panqueques,n1d_n2d
+ahora deme los panqueques,n1d_n2d
+mejor deme panqueques,n1d_n2d
+mejor si deme panqueques,n1d_n2d

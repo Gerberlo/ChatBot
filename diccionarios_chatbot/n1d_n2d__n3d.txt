@@ -1,0 +1,147 @@
+Cafe,n1d_n2d__n3d___n4i
+Quiero cafe,n1d_n2d__n3d___n4i
+Quiero el cafe,n1d_n2d__n3d___n4i
+Quiero un cafe,n1d_n2d__n3d___n4i
+Quiero cafe por favor,n1d_n2d__n3d___n4i
+Quiero el cafe por favor,n1d_n2d__n3d___n4i
+Quiero un cafe por favor,n1d_n2d__n3d___n4i
+Quiero cafe porfa,n1d_n2d__n3d___n4i
+Quiero el cafe porfa,n1d_n2d__n3d___n4i
+Quiero un cafe porfa,n1d_n2d__n3d___n4i
+Cafe por favor,n1d_n2d__n3d___n4i
+Deme cafe por favor,n1d_n2d__n3d___n4i
+Deme cafe porfa,n1d_n2d__n3d___n4i
+Deme el cafe por favor,n1d_n2d__n3d___n4i
+Deme el cafe porfa,n1d_n2d__n3d___n4i
+El cafe esta bien,n1d_n2d__n3d___n4i
+Cafe esta bien,n1d_n2d__n3d___n4i
+Un Cafe esta bien,n1d_n2d__n3d___n4i
+Deme el cafe,n1d_n2d__n3d___n4i
+Deme un cafe,n1d_n2d__n3d___n4i
+Cafe porfa,n1d_n2d__n3d___n4i
+Un cafe,n1d_n2d__n3d___n4i
+Cafe me parece,n1d_n2d__n3d___n4i
+Cafe me parece bien,n1d_n2d__n3d___n4i
+Un cafe me parece,n1d_n2d__n3d___n4i
+Un cafe me parece bien,n1d_n2d__n3d___n4i
+El cafe me parece,n1d_n2d__n3d___n4i
+El cafe me parece bien,n1d_n2d__n3d___n4i
+Jugo de naranja,n1d_n2d__n3d___n4d
+Jugo,n1d_n2d__n3d___n4d
+Jugo de naranja por favor,n1d_n2d__n3d___n4d
+Jugo de naranja porfa,n1d_n2d__n3d___n4d
+Jugo por favor,n1d_n2d__n3d___n4d
+Jugo porfa,n1d_n2d__n3d___n4d
+Quiero jugo de naranja,n1d_n2d__n3d___n4d
+Quiero jugo,n1d_n2d__n3d___n4d
+Quiero el jugo de naranja,n1d_n2d__n3d___n4d
+Quiero el jugo,n1d_n2d__n3d___n4d
+Quiero un jugo de naranja,n1d_n2d__n3d___n4d
+Quiero un jugo,n1d_n2d__n3d___n4d
+Quiero jugo de naranja por favor,n1d_n2d__n3d___n4d
+Quiero jugo por favor,n1d_n2d__n3d___n4d
+Quiero el jugo de naranja por favor,n1d_n2d__n3d___n4d
+Quiero el jugo por favor,n1d_n2d__n3d___n4d
+Quiero un jugo de naranja por favor,n1d_n2d__n3d___n4d
+Quiero un jugo por favor,n1d_n2d__n3d___n4d
+Quiero jugo de naranja porfa,n1d_n2d__n3d___n4d
+Quiero jugo porfa,n1d_n2d__n3d___n4d
+Quiero el jugo de naranja porfa,n1d_n2d__n3d___n4d
+Quiero el jugo porfa,n1d_n2d__n3d___n4d
+Quiero un jugo de naranja porfa,n1d_n2d__n3d___n4d
+Quiero un jugo porfa,n1d_n2d__n3d___n4d
+Deme jugo de naranja por favor,n1d_n2d__n3d___n4d
+Deme jugo de naranja porfa,n1d_n2d__n3d___n4d
+Deme jugo por favor,n1d_n2d__n3d___n4d
+Deme un jugo de naranja por favor,n1d_n2d__n3d___n4d
+Deme un jugo de naranja porfa,n1d_n2d__n3d___n4d
+Deme un jugo por favor,n1d_n2d__n3d___n4d
+Deme el jugo de naranja por favor,n1d_n2d__n3d___n4d
+Deme el jugo de naranja porfa,n1d_n2d__n3d___n4d
+Deme el jugo por favor,n1d_n2d__n3d___n4d
+Un jugo de naranja,n1d_n2d__n3d___n4d
+Un jugo,n1d_n2d__n3d___n4d
+El jugo de naranja,n1d_n2d__n3d___n4d
+El jugo,n1d_n2d__n3d___n4d
+Jugo de naranja esta bien,n1d_n2d__n3d___n4d
+Jugo esta bien,n1d_n2d__n3d___n4d
+Jugo de naranja me parece,n1d_n2d__n3d___n4d
+Jugo me parece,n1d_n2d__n3d___n4d
+Jugo de naranja me parece bien,n1d_n2d__n3d___n4d
+Jugo me parece bien,n1d_n2d__n3d___n4d
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor los burritos,n1d_n2i
+prefiero los burritos,n1d_n2i
+quiero los burritos,n1d_n2i
+quiero cambiar a burritos,n1d_n2i
+mejor burritos,n1d_n2i
+burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+creo que prefiero los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+quiero burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ya no quiero deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
+mejor el muffin,n1i
+prefiero el muffin,n1i
+cambiemelo por el muffin,n1i
+quiero cambiar a muffin,n1i
+mejor muffin,n1i
+muffin,n1i
+el muffin mejor,n1i
+el muffin,n1i
+creo que prefiero el muffin,n1i
+mejor un muffin,n1i
+quiero un muffin mejor,n1i
+un muffin,n1i
+creo que prefiero un muffin,n1i
+cambielo a muffin,n1i
+creo que un muffin,n1i
+prefiero un muffin,n1i
+quiero un muffin,n1i
+deme muffin,n1i
+ya no quiero deme un muffin,n1i
+ahora quiero muffin,n1i
+ahora quiero el muffin,n1i
+ahora deme el muffin,n1i
+mejor deme el muffin,n1i
+mejor deme muffin,n1i
+mejor si deme el muffin,n1i

@@ -1,0 +1,112 @@
+no,n1d_n2d__n3i
+no buena onda,n1d_n2d__n3i
+no gracias,n1d_n2d__n3i
+no muchas gracias,n1d_n2d__n3i
+ahorita no,n1d_n2d__n3i
+ahorita no gracias,n1d_n2d__n3i
+asi normal,n1d_n2d__n3i
+normal por favor,n1d_n2d__n3i
+normal porfa,n1d_n2d__n3i
+hoy no,n1d_n2d__n3i
+hoy no gracias,n1d_n2d__n3i
+creo que no,n1d_n2d__n3i
+sin miel extra,n1d_n2d__n3i
+creo que no gracias,n1d_n2d__n3i
+creo q no gracias,n1d_n2d__n3i
+creo q no,n1d_n2d__n3i
+si,n1d_n2d__n3d
+si gracias,n1d_n2d__n3d
+si por favor,n1d_n2d__n3d
+si porfa,n1d_n2d__n3d
+si con miel extra por favor,n1d_n2d__n3d
+si esta bien,n1d_n2d__n3d
+esta bien,n1d_n2d__n3d
+ok,n1d_n2d__n3d
+me gustaria,n1d_n2d__n3d
+me gustaria con miel extra,n1d_n2d__n3d
+por favor,n1d_n2d__n3d
+porfa,n1d_n2d__n3d
+me parece,n1d_n2d__n3d
+suena bien,n1d_n2d__n3d
+parece una buena idea,n1d_n2d__n3d
+me parece genial,n1d_n2d__n3d
+me parece super,n1d_n2d__n3d
+me parece la miel extra,n1d_n2d__n3d
+si quiero miel extra,n1d_n2d__n3d
+miel extra suena bien,n1d_n2d__n3d
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor los burritos,n1d_n2i
+prefiero los burritos,n1d_n2i
+quiero los burritos,n1d_n2i
+quiero cambiar a burritos,n1d_n2i
+mejor burritos,n1d_n2i
+burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+creo que prefiero los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+quiero burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ya no quiero deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
+mejor el muffin,n1i
+prefiero el muffin,n1i
+cambiemelo por el muffin,n1i
+quiero cambiar a muffin,n1i
+mejor muffin,n1i
+muffin,n1i
+el muffin mejor,n1i
+el muffin,n1i
+creo que prefiero el muffin,n1i
+mejor un muffin,n1i
+quiero un muffin mejor,n1i
+un muffin,n1i
+creo que prefiero un muffin,n1i
+cambielo a muffin,n1i
+creo que un muffin,n1i
+prefiero un muffin,n1i
+quiero un muffin,n1i
+deme muffin,n1i
+ya no quiero deme un muffin,n1i
+ahora quiero muffin,n1i
+ahora quiero el muffin,n1i
+ahora deme el muffin,n1i
+mejor deme el muffin,n1i
+mejor deme muffin,n1i
+mejor si deme el muffin,n1i

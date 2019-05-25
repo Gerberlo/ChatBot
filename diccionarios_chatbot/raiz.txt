@@ -1,0 +1,167 @@
+no,n1d
+no buena onda,n1d
+no gracias,n1d
+no muchas gracias,n1d
+no quiero,n1d
+ahorita no,n1d
+ahorita no gracias,n1d
+hoy no,n1d
+hoy no gracias,n1d
+no me parece,n1d
+no me gustan los Muffins,n1d
+no me gusta el Muffin,n1d
+no me convence,n1d
+no me gusta la idea,n1d
+creo q no,n1d
+creo que no,n1d
+ahorita paso,n1d
+hoy paso,n1d
+me gustaria probar otra cosa,n1d
+si,n1i
+si quiero,n1i
+me gustaria,n1i
+si me gustaria,n1i
+quiero probarlo,n1i
+me gustaria probarlo,n1i
+lo quiero,n1i
+lo quiero por favor,n1i
+si lo quiero,n1i
+si por favor,n1i
+lo probare,n1i
+si gracias,n1i
+por favor,n1i
+el muffin por favor,n1i
+el muffin porfa,n1i
+por favor un muffin,n1i
+por favor el muffin,n1i
+porfa un muffin,n1i
+porfa el muffin,n1i
+porfa,n1i
+esta genial,n1i
+buena idea,n1i
+es una buena idea,n1i
+es una buena opcion,n1i
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+mejor múestreme de nuevo el menu,menu
+quiero ver de nuevo el menú,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+quiero cambiar a burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
+una excelente idea,n1i
+excelente idea,n1i
+quiero el muffin,n1i
+muffin me parece,n1i
+me parece bien,n1i
+me parece,n1i
+me parece super,n1i
+suena bien,n1i
+suena bien el muffin,n1i
+muffin suena bien,n1i
+se me antoja el muffin,n1i
+se me antoja un muffin,n1i
+se me antojan los muffins,n1i
+se me antojan muffins,n1i
+creo que si lo probare,n1i
+creo q si,n1i
+burritos,n1d_n2i
+quiero burritos,n1d_n2i
+quiero los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+me parecen mas los burritos,n1d_n2i
+me parecen mejores los burritos,n1d_n2i
+me parecen mejor los burritos,n1d_n2i
+mejor los burritos,n1d_n2i
+me parecen mas los panqueques,n1d_n2d
+me parecen mejores los panqueques,n1d_n2d
+me parecen mejor los panqueques,n1d_n2d
+me lo puede cambiar por los panqueques,n1d_n2d
+me lo puede cambiar por panqueques,n1d_n2d
+mejor los panqueques,n1d_n2d
+prefiero los panqueques,n1d_n2d
+quiero los panqueques,n1d_n2d
+quiero cambiar a panqueques,n1d_n2d
+mejor panqueques,n1d_n2d
+panqueques,n1d_n2d
+los panqueques mejor,n1d_n2d
+los panqueques,n1d_n2d
+creo que prefiero los panqueques,n1d_n2d
+mejor unos panqueques,n1d_n2d
+quiero unos panqueques mejor,n1d_n2d
+unos panqueques,n1d_n2d
+creo que prefiero unos panqueques,n1d_n2d
+cambielo a panqueques,n1d_n2d
+creo que unos panqueques,n1d_n2d
+quiero panqueques,n1d_n2d
+prefiero unos panqueques,n1d_n2d
+quiero unos panqueques,n1d_n2d
+deme panqueques,n1d_n2d
+ya no quiero deme panqueques,n1d_n2d
+ahora quiero panqueques,n1d_n2d
+ahora deme los panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor deme panqueques,n1d_n2d
+mejor si deme panqueques,n1d_n2d
+mejor el muffin,n1i
+prefiero el muffin,n1i
+cambiemelo por el muffin,n1i
+quiero cambiar a muffin,n1i
+mejor muffin,n1i
+muffin,n1i
+el muffin mejor,n1i
+el muffin,n1i
+creo que prefiero el muffin,n1i
+mejor un muffin,n1i
+quiero un muffin mejor,n1i
+un muffin,n1i
+creo que prefiero un muffin,n1i
+cambielo a muffin,n1i
+creo que un muffin,n1i
+prefiero un muffin,n1i
+quiero un muffin,n1i
+deme muffin,n1i
+ya no quiero deme un muffin,n1i
+ahora quiero muffin,n1i
+ahora quiero el muffin,n1i
+ahora deme el muffin,n1i
+mejor deme el muffin,n1i
+mejor deme muffin,n1i
+mejor si deme el muffin,n1i

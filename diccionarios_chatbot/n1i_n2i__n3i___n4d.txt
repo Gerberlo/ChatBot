@@ -1,0 +1,123 @@
+si,n1i_n2i__n3i___n4d____n5i
+si por favor,n1i_n2i__n3i___n4d____n5i
+si quiero champurradas,n1i_n2i__n3i___n4d____n5i
+si champurradas,n1i_n2i__n3i___n4d____n5i
+si quiero por favor,n1i_n2i__n3i___n4d____n5i
+las champurradas estan bien,n1i_n2i__n3i___n4d____n5i
+esta bien las champurradas,n1i_n2i__n3i___n4d____n5i
+claro que si,n1i_n2i__n3i___n4d____n5i
+si me parecen las champurradas,n1i_n2i__n3i___n4d____n5i
+si me gustan las champurradas,n1i_n2i__n3i___n4d____n5i
+me parecen las champurradas,n1i_n2i__n3i___n4d____n5i
+si esta bien,n1i_n2i__n3i___n4d____n5i
+que bien si quiero,n1i_n2i__n3i___n4d____n5i
+quiero la opcion de champurradas,n1i_n2i__n3i___n4d____n5i
+si claro champurradas,n1i_n2i__n3i___n4d____n5i
+champurradas,n1i_n2i__n3i___n4d____n5i
+las champpurradas,n1i_n2i__n3i___n4d____n5i
+si demelas,n1i_n2i__n3i___n4d____n5i
+demelas,n1i_n2i__n3i___n4d____n5i
+las quiero,n1i_n2i__n3i___n4d____n5i
+si las quiero,n1i_n2i__n3i___n4d____n5i
+claro,n1i_n2i__n3i___n4d____n5i
+deme champurradas,n1i_n2i__n3i___n4d____n5i
+si dele,n1i_n2i__n3i___n4d____n5i
+no quiero champurradas,n1i_n2i__n3i___n4d____n5d
+no quiero champurradas gracias,n1i_n2i__n3i___n4d____n5d
+no gracias sin champurradas,n1i_n2i__n3i___n4d____n5d
+no,n1i_n2i__n3i___n4d____n5d
+no quiero,n1i_n2i__n3i___n4d____n5d
+no quiero gracias,n1i_n2i__n3i___n4d____n5d
+sin champurradas,n1i_n2i__n3i___n4d____n5d
+no las quiero,n1i_n2i__n3i___n4d____n5d
+no gracias,n1i_n2i__n3i___n4d____n5d
+sin las champurradas,n1i_n2i__n3i___n4d____n5d
+eso no,n1i_n2i__n3i___n4d____n5d
+eso no gracias,n1i_n2i__n3i___n4d____n5d
+esas no gracias,n1i_n2i__n3i___n4d____n5d
+no las quiero gracias,n1i_n2i__n3i___n4d____n5d
+esas no las quiero,n1i_n2i__n3i___n4d____n5d
+sin eso,n1i_n2i__n3i___n4d____n5d
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+mejor múestreme de nuevo el menu,menu
+quiero ver de nuevo el menú,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor los burritos,n1d_n2i
+prefiero los burritos,n1d_n2i
+quiero los burritos,n1d_n2i
+quiero cambiar a burritos,n1d_n2i
+mejor burritos,n1d_n2i
+burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+creo que prefiero los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+quiero burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ya no quiero deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
+me lo puede cambiar por los panqueques,n1d_n2d
+me lo puede cambiar por panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor los panqueques,n1d_n2d
+prefiero los panqueques,n1d_n2d
+quiero los panqueques,n1d_n2d
+quiero cambiar a panqueques,n1d_n2d
+mejor panqueques,n1d_n2d
+panqueques,n1d_n2d
+los panqueques mejor,n1d_n2d
+los panqueques,n1d_n2d
+creo que prefiero los panqueques,n1d_n2d
+mejor unos panqueques,n1d_n2d
+quiero unos panqueques mejor,n1d_n2d
+unos panqueques,n1d_n2d
+creo que prefiero unos panqueques,n1d_n2d
+cambielo a panqueques,n1d_n2d
+creo que unos panqueques,n1d_n2d
+quiero panqueques,n1d_n2d
+prefiero unos panqueques,n1d_n2d
+quiero unos panqueques,n1d_n2d
+deme panqueques,n1d_n2d
+ya no quiero deme panqueques,n1d_n2d
+ahora quiero panqueques,n1d_n2d
+ahora deme los panqueques,n1d_n2d
+mejor si deme los panqueques,n1d_n2d
+mejor deme los panqueques,n1d_n2d
+mejor deme panqueques,n1d_n2d
+mejor si deme panqueques,n1d_n2d

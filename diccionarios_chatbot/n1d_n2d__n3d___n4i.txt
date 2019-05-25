@@ -1,0 +1,124 @@
+Negro,n1d_n2d__n3d___n4i____n5i
+Americano,n1d_n2d__n3d___n4i____n5i
+Negro esta bien,n1d_n2d__n3d___n4i____n5i
+Negro por favor,n1d_n2d__n3d___n4i____n5i
+Negro porfa,n1d_n2d__n3d___n4i____n5i
+Americano esta bien,n1d_n2d__n3d___n4i____n5i
+Americano por favor,n1d_n2d__n3d___n4i____n5i
+Americano porfa,n1d_n2d__n3d___n4i____n5i
+Demelo negro,n1d_n2d__n3d___n4i____n5i
+Demelo americano,n1d_n2d__n3d___n4i____n5i
+Cafe negro,n1d_n2d__n3d___n4i____n5i
+Cafe americano,n1d_n2d__n3d___n4i____n5i
+Cafe negro por favor,n1d_n2d__n3d___n4i____n5i
+Cafe americano por favor,n1d_n2d__n3d___n4i____n5i
+Cafe negro porfa,n1d_n2d__n3d___n4i____n5i
+Cafe americano porfa,n1d_n2d__n3d___n4i____n5i
+que sea negro,n1d_n2d__n3d___n4i____n5i
+negro gracias,n1d_n2d__n3d___n4i____n5i
+que sea negro por favor,n1d_n2d__n3d___n4i____n5i
+que sea negro gracias,n1d_n2d__n3d___n4i____n5i
+el café negro,n1d_n2d__n3d___n4i____n5i
+el café americano,n1d_n2d__n3d___n4i____n5i
+lo quiero negro,n1d_n2d__n3d___n4i____n5i
+sin leche,n1d_n2d__n3d___n4i____n5i
+cafe sin leche,n1d_n2d__n3d___n4i____n5i
+que sea con leche,n1d_n2d__n3d___n4i____n5d
+leche,n1d_n2d__n3d___n4i____n5d
+cafe con leche gracias,n1d_n2d__n3d___n4i____n5d
+Con leche,n1d_n2d__n3d___n4i____n5d
+Con leche esta bien,n1d_n2d__n3d___n4i____n5d
+Demelo con leche,n1d_n2d__n3d___n4i____n5d
+Cafe con leche,n1d_n2d__n3d___n4i____n5d
+Cafe con leche por favor,n1d_n2d__n3d___n4i____n5d
+Cafe con leche porfa,n1d_n2d__n3d___n4i____n5d
+cambieme el cafe por jugo,n1d_n2i__n3i___n4i
+ahora quiero jugo,n1d_n2i__n3i___n4i
+cambielo por el jugo,n1d_n2i__n3i___n4i
+deme el jugo,n1d_n2i__n3i___n4i
+deme jugo,n1d_n2i__n3i___n4i
+prefiero jugo,n1d_n2i__n3i___n4i
+el jugo,n1d_n2i__n3i___n4i
+quiero jugo,n1d_n2i__n3i___n4i
+mejor quiero jugo de naranja,n1d_n2i__n3i___n4i
+mejor quiero jugo,n1d_n2i__n3i___n4i
+deme mejor un jugo de naranja,n1d_n2i__n3i___n4i
+deme mejor un jugo,n1d_n2i__n3i___n4i
+mejor deme jugo de naranja,n1d_n2i__n3i___n4i
+mejor deme jugo,n1d_n2i__n3i___n4i
+me puede cambiar el café por jugo,n1d_n2i__n3i___n4i
+me puede cambiar el cafe por jugo,n1d_n2i__n3i___n4i
+ya no quiero nada adios,salir
+ya nada,salir
+no quiero nada,salir
+adios,salir
+ya no quiero nada,salir
+ya no gracias,salir
+creo que ya no muchas gracias,salir
+mejor no gracias,salir
+mejor no muchas gracias,salir
+ya no,salir
+mejor muestreme de nuevo el menu,menu
+mejor múestreme de nuevo el menu,menu
+quiero ver de nuevo el menú,menu
+quiero ver de nuevo el menu,menu
+el menu,menu
+quiero ver el menu,menu
+y el menu,menu
+el menu por favor,menu
+muestreme el menu,menu
+a ver el menu,menu
+quiero cambiar,menu
+el menu porfavor,menu
+menu,menu
+mostrame el menu,menu
+puedo ver el menu,menu
+que mas hay,menu
+quiero cambiar mi menu,menu
+mejor el muffin,n1i
+prefiero el muffin,n1i
+cambiemelo por el muffin,n1i
+quiero cambiar a muffin,n1i
+mejor muffin,n1i
+muffin,n1i
+el muffin mejor,n1i
+el muffin,n1i
+creo que prefiero el muffin,n1i
+mejor un muffin,n1i
+quiero un muffin mejor,n1i
+un muffin,n1i
+creo que prefiero un muffin,n1i
+cambielo a muffin,n1i
+creo que un muffin,n1i
+prefiero un muffin,n1i
+quiero un muffin,n1i
+deme muffin,n1i
+ya no quiero deme un muffin,n1i
+ahora quiero muffin,n1i
+ahora quiero el muffin,n1i
+ahora deme el muffin,n1i
+mejor deme el muffin,n1i
+mejor deme muffin,n1i
+mejor si deme el muffin,n1i
+mejor burritos,n1d_n2i
+burritos,n1d_n2i
+los burritos mejor,n1d_n2i
+los burritos,n1d_n2i
+creo que prefiero los burritos,n1d_n2i
+mejor unos burritos,n1d_n2i
+quiero unos burritos mejor,n1d_n2i
+unos burritos,n1d_n2i
+creo que prefiero unos burritos,n1d_n2i
+cambielo a burritos,n1d_n2i
+creo que unos burritos,n1d_n2i
+quiero burritos,n1d_n2i
+prefiero unos burritos,n1d_n2i
+quiero unos burritos,n1d_n2i
+deme burritos,n1d_n2i
+ya no quiero deme burritos,n1d_n2i
+ahora quiero burritos,n1d_n2i
+ahora deme los burritos,n1d_n2i
+mejor si deme los burritos,n1d_n2i
+mejor deme los burritos,n1d_n2i
+mejor deme burritos,n1d_n2i
+mejor si deme burritos,n1d_n2i
