@@ -16,7 +16,7 @@ import javax.swing.border.LineBorder;
 
 /**
  *
- * @author AndreGuerra
+ * @author GG
  */
 public class Layout extends javax.swing.JFrame {
 
@@ -82,6 +82,7 @@ public class Layout extends javax.swing.JFrame {
         //comentar este if al terminar todos los archivos diccionarios
         if (idNodoActual.length() > 23) {
             this.generarLabel("Su pedido le estara llegando en un tiempo estimado de 30 minutos", new Color(243, 245, 245), Color.black, false);
+            this.jButton1.setEnabled(false);
             return;
         }
         this.jTextField1.setText("");
@@ -436,7 +437,7 @@ public class Layout extends javax.swing.JFrame {
         //---------------------------------------
         clave = nuevaClave.trim();
         for (int i = 0; i < lista.size(); i++) {
-            String[] arr = lista.get(i).split(";");
+            String[] arr = lista.get(i).split(",");
             if (arr[0].equalsIgnoreCase(clave)) {
                 String respuestaAnterior = this.buscar(arr[1]);
                 generarLabel(respuestaAnterior, new Color(243, 245, 245), Color.black, false);

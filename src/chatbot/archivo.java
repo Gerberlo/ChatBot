@@ -23,7 +23,7 @@ public class archivo {
         BufferedReader br = null;
         ArrayList<String> datos = new ArrayList<>();
         try {
-            archivo = new File("D:\\Escritorio\\pfpruebas\\diccionarios\\" + nombreArchivo);
+            archivo = new File("D:\\Escritorio\\PROYECTO FINAL\\diccionarios_chatbot\\" + nombreArchivo);
             fr = new FileReader(archivo);
             br = new BufferedReader(fr);
             String linea;
